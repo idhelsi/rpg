@@ -4,6 +4,7 @@ export const Container = styled.div`
   background-color: #24282F;
   min-height: 100vh;
   color: #fff;
+  margin: 40px 40px
 `;
 
 export const Map = styled.div`
